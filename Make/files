@@ -1,0 +1,3 @@
+oldMesh2NewMesh.C
+
+EXE = $(FOAM_APPBIN)/oldMesh2NewMesh
